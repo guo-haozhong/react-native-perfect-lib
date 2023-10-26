@@ -1,4 +1,4 @@
-git commit log:
+git commit log :
 
 * build
 * chore
